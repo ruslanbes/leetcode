@@ -2,8 +2,8 @@
  * @lc app=leetcode id=1 lang=golang
  *
  * [1] Two Sum
- * Space: O(n)
  * Time: O(n)
+ * Space: O(n)
  */
 
 // @lc code=start

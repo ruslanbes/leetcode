@@ -2,8 +2,8 @@
  * @lc app=leetcode id=2 lang=golang
  *
  * [2] Add Two Numbers
+ * Time: O(max(m,n))
  * Space: O(1)
- * Time: O(n)
  */
 
 // @lc code=start
